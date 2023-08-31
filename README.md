@@ -34,7 +34,7 @@ Welcome to my data portfolio! Here, I document a summary of my projects in the d
 
 | Project Link | Area | Project Description | Libraries |    
 |---|---|---|---|
-| 👨🏾‍💻 [Hangman Game]([https://github.com/abhirbhandary/Python/blob/main/Hangman_game_.ipynb]) | Programming | Hangman is a guessing game where the player(s) try to guess the word by suggesting a letters. A Cheat mode was added where entering the secret code reveals the word and declares you the winner.| - |      
+| 👨🏾‍💻 [Hangman Game](https://github.com/abhirbhandary/Python/blob/main/Hangman_game_.ipynb) | Programming | Hangman is a guessing game where the player(s) try to guess the word by suggesting a letters. A Cheat mode was added where entering the secret code reveals the word and declares you the winner.| - |      
 <!--
 | 📺 [TMDb Movie Analysis](https://github.com/katiehuangx/Udacity-Data-Analyst-Nanodegree/blob/main/Project%202%20-%20TMDB%20Movie%20Analysis.ipynb) |   Data Wrangling & EDA | I analysed more than 10,000 TMDb movies and getting the answers to - Which actor(s) is associated with higher revenue and profit, Does a higher budget constitute to a higher profit, and Which director produced the highest grossing movie? | pandas, matplotlib |   
 | ⛽️ [Fuel Economy](https://github.com/katiehuangx/Udacity-Data-Analyst-Nanodegree/blob/main/Case%20Study%202%20-%20Fuel%20Economy.ipynb) | Data Wrangling & EDA | Analysis on vehicles’ fuel economy in 2008 and 2018 to understand usage of alternative sources of fuel, changes in greenhouse gas and smog ratings over the decade, and vehicle features associated with better fuel economy. |  pandas, matplotlib |   
