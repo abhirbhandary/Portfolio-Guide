@@ -12,7 +12,7 @@ Welcome to my data portfolio! Here, I document a summary of my projects in the d
 
 | Project Link | Tools | Project Description | 
 |---|---|---|
-| 🏗 [Extract Data to Store Data](https://github.com/katiehuangx/data-engineering/tree/main/Uber%20Project) |Python, Beautiful Soup, API, SQLite | Extracted data from Wikipedia using Beautiful Soup, followed by extarcting data using API and finally storing the data into SQlite database |
+| 🏗 [Extract Data to Store Data](https://github.com/katiehuangx/data-engineering/tree/main/Uber%20Project) |Python, Beautiful Soup, API, SQLite | Extracted data from Wikipedia using Beautiful Soup, followed by extracting data using API and finally storing the data into SQlite database |
 <!--
 | 🐶 [Dog Adoption](https://github.com/katiehuangx/data-engineering/tree/main/Dog%20Adoption) | Mar 2023 |Python, PostgreSQL, Jupyter Notebook | Designed, created, and deployed a custom data model for a dog adoption data set using Python and PostgreSQL on Jupyter Notebook. |
 
