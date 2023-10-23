@@ -1,4 +1,4 @@
-![image](https://github.com/abhirbhandary/Portfolio-Guide/assets/123348366/1d681574-2eda-4de1-9dc1-da675f0bdf0d)# 🗺 Abhir's Portfolio
+# 🗺 Abhir's Portfolio
 
 Welcome to my data portfolio! Here, I document a summary of my projects in the data field. 
 
