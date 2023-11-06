@@ -56,9 +56,9 @@ Welcome to my data portfolio! Here, I document a summary of my projects in the d
 
 | Project Link | Project Description | Dashboard Link |
 |---|---|---|
-| 🌎 [World At Glance](https://public.tableau.com/app/profile/abhir.bhandary/viz/WorldAtGlance/Dashboard1) | Using an Enviroment Database to uncover hidden insights and trends through data visualization.| [Dashboard](https://public.tableau.com/app/profile/abhir.bhandary/viz/WorldAtGlance/Dashboard1) | 
+| ✈️ [Flight Path Visualization](https://public.tableau.com/views/Weather_16971135075160/Dashboard1?:language=en-US&:display_count=n&:origin=viz_share_link) | A Flow map to visualize Spatial pattern. | [Dashboard](https://public.tableau.com/app/profile/abhir.bhandary/viz/Flight_16984781777970/Dashboard1) | 
 | 🌧 [Weather App](https://public.tableau.com/views/Weather_16971135075160/Dashboard1?:language=en-US&:display_count=n&:origin=viz_share_link) | An end to end project where data is extracted from free weather API. Stored the data in Google sheet which calls the api everyday to update the table. Connected it to tableau to visualise the weather data for a city | [Dashboard](https://public.tableau.com/views/Weather_16971135075160/Dashboard1?:language=en-US&publish=yes&:display_count=n&:origin=viz_share_link) | 
-
+| 🌎 [World At Glance](https://public.tableau.com/app/profile/abhir.bhandary/viz/WorldAtGlance/Dashboard1) | Using an Enviroment Database to uncover hidden insights and trends through data visualization.| [Dashboard](https://public.tableau.com/app/profile/abhir.bhandary/viz/WorldAtGlance/Dashboard1) | 
 
 ***
 <!--
