@@ -38,6 +38,7 @@ Welcome to my data portfolio! Here, I document a summary of my projects in the d
 
 | Project Link | Area | Project Description | Libraries |    
 |---|---|---|---|
+| 📄[PDF Analyzer](https://github.com/abhirbhandary/my-project/tree/main) |  Large Language Model - Langchain | PDF Analyzer is a question-answering app that uses OPEN AI or Hugging Face model to provide relevant answers.| OpenAI,FAISS,HuggingFaceEmbeddings,langchain, streamlit | 
 | 🏚️[House Prices - Advanced Regression Techniques](https://github.com/abhirbhandary/Python/blob/main/Housing_price_prediction_competition.ipynb) |  Supervised ML - Regression Techniques | Predict sales prices and practice feature engineering and regression techniques like random forest and gradient boosting.| pandas, Sklearn, NumPy |    
 | 🍄[Mushrooms Challenge - Classification](https://github.com/abhirbhandary/Python/blob/main/Mushrooms_Challenge.ipynb) |  Supervised ML - Classification | Use of ROC Curves and Probabilities for Classification in Python.| pandas, Sklearn, NumPy |  
 | 🎵[Spotify Playlist](https://github.com/abhirbhandary/Python/blob/main/KMeans.ipynb) |  Unsupervised ML - KMeans | Analysis of Spotify’s audio features to identify “similar songs”, as defined by humanly detectable criteria using K-Means method to create playlists.| pandas, matplotlib, seaborn, NumPy |   
